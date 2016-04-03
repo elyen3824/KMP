@@ -1,0 +1,6 @@
+c:\users\54709_000\documents\visual studio 2015\Projects\StringDiff\StringDiff\bin\Debug\StringDiff.exe.config
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\StringDiff\bin\Debug\StringDiff.exe
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\StringDiff\bin\Debug\StringDiff.pdb
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\StringDiff\obj\Debug\StringDiff.exe
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\StringDiff\obj\Debug\StringDiff.pdb
+C:\Users\54709_000\Documents\Visual Studio 2015\Projects\StringDiff\StringDiff\obj\Debug\StringDiff.csprojResolveAssemblyReference.cache

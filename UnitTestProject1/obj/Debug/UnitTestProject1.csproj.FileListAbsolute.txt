@@ -1,0 +1,9 @@
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\bin\Debug\StringDiff.exe
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\bin\Debug\StringDiff.pdb
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\54709_000\documents\visual studio 2015\Projects\StringDiff\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
